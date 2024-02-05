@@ -1,6 +1,6 @@
-##Weather App
+## Weather App
 
-#Overview:
+# Overview:
 The Weather App is a simple web application that provides real-time weather information using the Weather by API Ninja from RapidAPI. This project is built with a user-friendly interface using Bootstrap components such as cards and a navigation bar.
 
 #Features:
